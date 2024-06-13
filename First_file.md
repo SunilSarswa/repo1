@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @SARZWARZ
-- 👀 I’m not very intesrested in coding and now that I chose CS as my post graduation major, gotta learn coding!
-- 🌱 I’m currently learning JAVA and its data structures
-- 💞️ I’m looking to collaborate on JDK projects for begineers 
+- 👋 Hi
 - 📫 Reach me on sarswasx@gmail.com
 
 <!---
